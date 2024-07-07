@@ -9,9 +9,9 @@
 <hr>
 
 * 📚 studying <i>mechatronics engineering</i> at the [university of waterloo](https://uwaterloo.ca/)
-* 💻 aspiring full stack developer
+* 💻 aspiring robotics engineer
 * 🌟 strong interest in controls theory and data structures and algorithms
-* 🔭 experiences in robotics (ros) controls and design
+* 🔭 experiences in robotics (ros) controls CAD and PCB design
 * ✉️  contact me @ [rubie.luo@uwaterloo.ca](mailto:rubie.luo@uwaterloo.ca)
 
 <span align="center">
