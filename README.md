@@ -12,7 +12,7 @@
 * 💻 aspiring robotics engineer
 * 🌟 strong interest in controls theory and data structures and algorithms
 * 🔭 experiences in robotics (ros) controls CAD and PCB design
-* ✉️  contact me @ [rubie.luo@uwaterloo.ca](mailto:rubie.luo@uwaterloo.ca)
+* ✉️  contact me @ rubie.luo [at] uwaterloo.ca
 
 <span align="center">
 
